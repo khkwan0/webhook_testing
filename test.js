@@ -1,5 +1,1 @@
-c
-
-
-
-onsole.log('test')
+console.log('test')
